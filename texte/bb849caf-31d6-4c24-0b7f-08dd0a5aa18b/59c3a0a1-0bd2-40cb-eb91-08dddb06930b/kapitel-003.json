@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "59c3a0a1-0bd2-40cb-eb91-08dddb06930b",
+  "chapterId": "af8e3482-1662-48d7-2589-08dddb06a719",
+  "number": 3,
+  "title": "Kapitel 3",
+  "workTitle": "Über die Verschleierung von Jungfrauen",
+  "authorName": "Tertullian",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/tertullian/ueber-die-verschleierung-von-jungfrauen#kapitel-af8e3482-1662-48d7-2589-08dddb06a719",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:47504818a5f779724665ab7eb03e39c0fe9181c5780392fa0c3e65be0f62af7d",
+  "plainText": "Jene hochheiligen Vorgänger, die unseren, versuchten nicht einmal, den Streit zwischen diesen Gewohnheiten zu entscheiden. Stattdessen ließen sie bis vor ganz kurzer Zeit beides gelten: Jede Jungfrau konnte selbst entscheiden, ob sie verborgen bleiben oder sich zur Schau stellen wollte, als wäre das nichts anderes als die Entscheidung, ob man heiratet, etwas, das weder erzwungen noch verboten ist. Die Wahrheit begnügte sich damit, mit der „Gewohnheit“ eine Übereinkunft zu treffen: unter ihrem Namen zu leben, solange sie einen Teil des Ihren bewahren konnte. [So überlebte die apostolische Regel, dass Jungfrauen verschleiert sein sollen, nur teilweise, verborgen unter dem Titel „Gewohnheit“, statt als Wahrheit.] Als aber die Anerkennung voranzuschreiten begann, sodass durch die Freiheit beider Praktiken der bessere Teil sich zeigen konnte, da führte sogleich jener (große) Widersacher der guten Dinge und vieler Einrichtungen sein eigenes Werk aus. Die „Jungfrauen“ der Menschen treten den Jungfrauen Gottes entgegen, mit dreist entblößter Stirn, leichtsinnig zur Frechheit aufgestachelt; und als „Jungfrauen“ gelten solche, die von Männern etwas verlangen können, geschweige denn so etwas wie dies: dass ihnen ihre Rivalinnen ausgeliefert werden sollen, die umso freier sind, weil sie allein Sklavinnen Christi sind! „Wir nehmen Anstoß“, sagen sie, „weil andere anders leben als wir.“ Und sie ziehen es vor, Anstoß zu nehmen, statt zur Schamhaftigkeit herausgefordert zu werden. Ein „Anstoß“ ist, wenn ich mich nicht irre, nicht das Beispiel einer guten Sache, sondern einer bösen, die einen zur Sünde hin aufbaut; gute Dinge geben niemandem Anstoß außer einem bösen Sinn.\n\nWenn Schamhaftigkeit, sittsame Scheu, Verachtung des Ruhms und das Verlangen, Gott allein zu gefallen, gute Dinge sind, dann sollen jene Frauen, die an einem solchen Gut „Anstoß nehmen“, ihr eigenes Böses erkennen. Denn was folgt daraus? Wenn die Zügellosen sagen, sie nähmen an den Enthaltsamen „Anstoß“, soll dann die Enthaltsamkeit zurückgenommen werden? Und damit die mehrfach Verheirateten keinen „Anstoß nehmen“, muss die Einehe verworfen werden? Sollte man nicht vielmehr fragen, ob der wirkliche Anstoß in der Zuchtlosigkeit und Schamlosigkeit einer prahlerisch zur Schau gestellten Jungfräulichkeit liegt? Und so werden um dieser schamlosen Schaustücke willen heilige Jungfrauen in die Kirche gezerrt, errötend darüber, öffentlich erkannt zu werden, und zitternd davor, entblößt zu werden, als wären sie zur Schändung vorgeladen. Ja, sie sind keineswegs weniger unwillig, dies zu ertragen. Jede öffentliche Bloßstellung einer guten Jungfrau ist ein Erleiden von Schändung. Und doch ist selbst die Schändung des Leibes zu erleiden das geringere Übel, weil sie aus dem Wirken der Natur kommt. Weit schlimmer ist es, wenn der Geist einer Jungfrau selbst geschändet wird, wenn ihr der Schleier fortgerissen wird: Sie hat gelernt, das zu verlieren, was der Schleier einst bewahrte. O frevlerische Hände, die es wagten, das Gott geweihte Gewand abzustreifen! Was Schlimmeres hätte irgendein Verfolger tun können, wenn er erkannt hätte, dass dieses Gewand von einer Jungfrau gewählt war? Ihr habt das Haupt des Mädchens entblößt, und die Jungfrau, die sich selbst einst als solche kannte, ist nicht mehr sie selbst: Sie ist zu etwas anderem gemacht worden! So erhebe dich, Wahrheit, erhebe dich! Brich aus deiner Geduld hervor! Ich will nicht, dass du irgendeine „Gewohnheit“ verteidigst, denn selbst jene Gewohnheit, unter der man dich einst genießen konnte, wird nun überwunden. Zeige dich als diejenige, die Jungfrauen verschleiert. Lege deine eigenen Schriften aus, die die „Gewohnheit“ nicht versteht; denn wenn die Gewohnheit sie verstanden hätte, hätte sie niemals bestanden.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Jene hochheiligen Vorgänger, die unseren, versuchten nicht einmal, den Streit zwischen diesen Gewohnheiten zu entscheiden. Stattdessen ließen sie bis vor ganz kurzer Zeit beides gelten: Jede Jungfrau konnte selbst entscheiden, ob sie verborgen bleiben oder sich zur Schau stellen wollte, als wäre das nichts anderes als die Entscheidung, ob man heiratet, etwas, das weder erzwungen noch verboten ist. Die Wahrheit begnügte sich damit, mit der „Gewohnheit“ eine Übereinkunft zu treffen: unter ihrem Namen zu leben, solange sie einen Teil des Ihren bewahren konnte. [So überlebte die apostolische Regel, dass Jungfrauen verschleiert sein sollen, nur teilweise, verborgen unter dem Titel „Gewohnheit“, statt als Wahrheit.] Als aber die Anerkennung voranzuschreiten begann, sodass durch die Freiheit beider Praktiken der bessere Teil sich zeigen konnte, da führte sogleich jener (große) Widersacher der guten Dinge und vieler Einrichtungen sein eigenes Werk aus. Die „Jungfrauen“ der Menschen treten den Jungfrauen Gottes entgegen, mit dreist entblößter Stirn, leichtsinnig zur Frechheit aufgestachelt; und als „Jungfrauen“ gelten solche, die von Männern etwas verlangen können, geschweige denn so etwas wie dies: dass ihnen ihre Rivalinnen ausgeliefert werden sollen, die umso freier sind, weil sie allein Sklavinnen Christi sind! „Wir nehmen Anstoß“, sagen sie, „weil andere anders leben als wir.“ Und sie ziehen es vor, Anstoß zu nehmen, statt zur Schamhaftigkeit herausgefordert zu werden. Ein „Anstoß“ ist, wenn ich mich nicht irre, nicht das Beispiel einer guten Sache, sondern einer bösen, die einen zur Sünde hin aufbaut; gute Dinge geben niemandem Anstoß außer einem bösen Sinn."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Wenn Schamhaftigkeit, sittsame Scheu, Verachtung des Ruhms und das Verlangen, Gott allein zu gefallen, gute Dinge sind, dann sollen jene Frauen, die an einem solchen Gut „Anstoß nehmen“, ihr eigenes Böses erkennen. Denn was folgt daraus? Wenn die Zügellosen sagen, sie nähmen an den Enthaltsamen „Anstoß“, soll dann die Enthaltsamkeit zurückgenommen werden? Und damit die mehrfach Verheirateten keinen „Anstoß nehmen“, muss die Einehe verworfen werden? Sollte man nicht vielmehr fragen, ob der wirkliche Anstoß in der Zuchtlosigkeit und Schamlosigkeit einer prahlerisch zur Schau gestellten Jungfräulichkeit liegt? Und so werden um dieser schamlosen Schaustücke willen heilige Jungfrauen in die Kirche gezerrt, errötend darüber, öffentlich erkannt zu werden, und zitternd davor, entblößt zu werden, als wären sie zur Schändung vorgeladen. Ja, sie sind keineswegs weniger unwillig, dies zu ertragen. Jede öffentliche Bloßstellung einer guten Jungfrau ist ein Erleiden von Schändung. Und doch ist selbst die Schändung des Leibes zu erleiden das geringere Übel, weil sie aus dem Wirken der Natur kommt. Weit schlimmer ist es, wenn der Geist einer Jungfrau selbst geschändet wird, wenn ihr der Schleier fortgerissen wird: Sie hat gelernt, das zu verlieren, was der Schleier einst bewahrte. O frevlerische Hände, die es wagten, das Gott geweihte Gewand abzustreifen! Was Schlimmeres hätte irgendein Verfolger tun können, wenn er erkannt hätte, dass dieses Gewand von einer Jungfrau gewählt war? Ihr habt das Haupt des Mädchens entblößt, und die Jungfrau, die sich selbst einst als solche kannte, ist nicht mehr sie selbst: Sie ist zu etwas anderem gemacht worden! So erhebe dich, Wahrheit, erhebe dich! Brich aus deiner Geduld hervor! Ich will nicht, dass du irgendeine „Gewohnheit“ verteidigst, denn selbst jene Gewohnheit, unter der man dich einst genießen konnte, wird nun überwunden. Zeige dich als diejenige, die Jungfrauen verschleiert. Lege deine eigenen Schriften aus, die die „Gewohnheit“ nicht versteht; denn wenn die Gewohnheit sie verstanden hätte, hätte sie niemals bestanden."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [],
+  "footnotes": []
+}

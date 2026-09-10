@@ -1,0 +1,171 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "59c3a0a1-0bd2-40cb-eb91-08dddb06930b",
+  "chapterId": "be431b37-66e1-4dc7-2588-08dddb06a719",
+  "number": 2,
+  "title": "Kapitel 2",
+  "workTitle": "Über die Verschleierung von Jungfrauen",
+  "authorName": "Tertullian",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/tertullian/ueber-die-verschleierung-von-jungfrauen#kapitel-be431b37-66e1-4dc7-2588-08dddb06a719",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:ae7706549ac2c923592327a7933c31d79485568e08c79fcef1fb1384f9f6ed2d",
+  "plainText": "Für jetzt weigere ich mich, zuzugestehen, dass diese Gewohnheit, Jungfrauen unverschleiert gehen zu lassen, irgendetwas mit der Wahrheit zu tun hat; sie soll lediglich „Gewohnheit“ heißen, damit ich Gewohnheit der Gewohnheit entgegenstellen kann. In ganz Griechenland und in manchen seiner barbarischen Gebiete halten viele Kirchen ihre Jungfrauen verborgen; und selbst unter diesem afrikanischen Himmel hat sich dieselbe Gewohnheit an einigen Orten durchgesetzt, sodass niemand sie griechischem oder barbarischem Heidentum zuschreiben kann. Doch ich stelle euch jene Kirchen vor Augen, die von den Aposteln selbst oder von apostolischen Männern gegründet wurden und, wie ich glaube, früher gegründet wurden als manche anderen. Diese Kirchen besitzen daher ebenfalls dieselbe Autorität der Gewohnheit und berufen sich weit stärker auf ihr Alter und ihre Vorgänger als diese späteren Kirchen. Was also sollen wir einhalten, was sollen wir wählen? Wir können eine Gewohnheit nicht verwerfen, die wir nicht verurteilen können, da sie uns nicht fremd ist und nicht von Außenstehenden stammt, sondern von denen, mit denen wir das Recht des Friedens und den Namen der Bruderschaft teilen. Wir und sie haben einen Glauben, einen Gott, denselben Christus, dieselbe Hoffnung, dasselbe Sakrament der Taufe. Ich sage es ein für alle Mal: Wir sind eine Kirche. Was den Unseren eigen ist, ist auch uns eigen; andernfalls teilst du den Leib. Doch hier ist, wie immer, wenn verschiedene Gewohnheiten im Streit stehen, eine Prüfung nötig, um zu sehen, welche der beiden Gewohnheiten mehr mit der Zucht Gottes übereinstimmt. Gewiss ist es diejenige, die die Jungfrau verborgen hält und nur Gott bekannt sein lässt; denn abgesehen davon, dass Ruhm von Gott und nicht von Menschen gesucht werden muss, sollte eine Jungfrau sogar vor ihrem eigenen Vorzug erröten.\n\nSie lässt sich durch Lob stärker beunruhigen als durch Tadel, weil die Stirn der Sünde härter ist, da sie aus der Sünde und in der Sünde selbst Schamlosigkeit gelernt hat. Was aber jene „Gewohnheit“ betrifft, die Jungfrauen zur Schau stellt, indem sie sie sichtbar macht: Niemand hätte sie gebilligt, außer Menschen von derselben Art wie die Jungfrauen selbst. Denn solche Augen verlangen danach, dass eine Jungfrau gesehen wird, wie auch die Jungfrau selbst danach verlangt haben muss, wenn sie gesehen werden will. Augen derselben Art begehren einander. Gesehen werden zu wollen ist dieselbe Begierde wie sehen zu wollen. Ein heiliger Mann muss ebenso erröten, wenn er eine unverhüllte Jungfrau sieht, wie eine heilige Jungfrau erröten muss, wenn sie von einem Mann gesehen wird. Viele moderne Kritiker der Verschleierung werden die Vermutung aufstellen, die Verschleierung sei vor allem eine nordafrikanische Gewohnheit gewesen; doch wenn das wahr wäre, warum würde Tertullian dann vor seinen Hörern zu begründen versuchen, dass sie nicht annehmen sollten, sie sei lediglich eine griechische Gewohnheit, sondern auch eine nordafrikanische? Korinth lag in Griechenland, Paulus wandte sich in griechischer Sprache an die Korinther und gebot den Frauen, ihre Häupter zu verschleiern. Sie hätten nur eine Art von Schleier gekannt, nämlich einen, der das Gesicht bedeckt.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Für jetzt weigere ich mich, zuzugestehen, dass diese Gewohnheit, Jungfrauen unverschleiert gehen zu lassen, irgendetwas mit der Wahrheit zu tun hat; sie soll lediglich „Gewohnheit“ heißen, damit ich Gewohnheit der Gewohnheit entgegenstellen kann. In ganz Griechenland und in manchen seiner barbarischen Gebiete halten viele Kirchen ihre Jungfrauen verborgen; und selbst unter diesem afrikanischen Himmel hat sich dieselbe Gewohnheit an einigen Orten durchgesetzt, sodass niemand sie griechischem oder barbarischem Heidentum zuschreiben kann. Doch ich stelle euch jene Kirchen vor Augen, die von den Aposteln selbst oder von apostolischen Männern gegründet wurden und, wie ich glaube, früher gegründet wurden als manche anderen. Diese Kirchen besitzen daher ebenfalls dieselbe Autorität der Gewohnheit und berufen sich weit stärker auf ihr Alter und ihre Vorgänger als diese späteren Kirchen. Was also sollen wir einhalten, was sollen wir wählen? Wir können eine Gewohnheit nicht verwerfen, die wir nicht verurteilen können, da sie uns nicht fremd ist und nicht von Außenstehenden stammt, sondern von denen, mit denen wir das Recht des Friedens und den Namen der Bruderschaft teilen. Wir und sie haben "
+          },
+          {
+            "type": "text",
+            "text": "einen Glauben, einen Gott, denselben Christus, dieselbe Hoffnung, dasselbe Sakrament der Taufe",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "4c008362-e78d-480b-b54f-6c5301850d77"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Ich sage es ein für alle Mal: Wir sind eine Kirche. Was den Unseren eigen ist, ist auch uns eigen; andernfalls "
+          },
+          {
+            "type": "text",
+            "text": "teilst du den Leib",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "7f82ca98-7c2a-4929-90c8-4c83ab258a72"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Doch hier ist, wie immer, wenn verschiedene Gewohnheiten im Streit stehen, eine Prüfung nötig, um zu sehen, welche der beiden Gewohnheiten mehr mit der Zucht Gottes übereinstimmt. Gewiss ist es diejenige, die die Jungfrau verborgen hält und nur Gott bekannt sein lässt; denn abgesehen davon, dass "
+          },
+          {
+            "type": "text",
+            "text": "Ruhm von Gott und nicht von Menschen gesucht werden muss",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "fe7e2de2-8396-4277-a588-ef9b1cd57914"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", sollte eine Jungfrau sogar vor ihrem eigenen Vorzug erröten."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sie lässt sich durch Lob stärker beunruhigen als durch Tadel, weil die Stirn der Sünde härter ist, da sie aus der Sünde und in der Sünde selbst Schamlosigkeit gelernt hat. Was aber jene „Gewohnheit“ betrifft, die Jungfrauen zur Schau stellt, indem sie sie sichtbar macht: Niemand hätte sie gebilligt, außer Menschen von derselben Art wie die Jungfrauen selbst. Denn solche Augen verlangen danach, dass eine Jungfrau gesehen wird, wie auch die Jungfrau selbst danach verlangt haben muss, wenn sie gesehen werden will. Augen derselben Art begehren einander. Gesehen werden zu wollen ist dieselbe Begierde wie sehen zu wollen. Ein heiliger Mann muss ebenso erröten, wenn er eine unverhüllte Jungfrau sieht, wie eine heilige Jungfrau erröten muss, wenn sie von einem Mann gesehen wird. Viele moderne Kritiker der Verschleierung werden die Vermutung aufstellen, die Verschleierung sei vor allem eine nordafrikanische Gewohnheit gewesen; doch wenn das wahr wäre, warum würde Tertullian dann vor seinen Hörern zu begründen versuchen, dass sie nicht annehmen sollten, sie sei lediglich eine griechische Gewohnheit, sondern auch eine nordafrikanische? Korinth lag in Griechenland, Paulus wandte sich in griechischer Sprache an die Korinther und "
+          },
+          {
+            "type": "text",
+            "text": "gebot den Frauen, ihre Häupter zu verschleiern",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "156a4b8d-2cdc-4dc7-aff5-d6e504c724e7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Sie hätten nur eine Art von Schleier gekannt, nämlich einen, der das Gesicht bedeckt."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "156a4b8d-2cdc-4dc7-aff5-d6e504c724e7",
+      "passages": [
+        {
+          "from": {
+            "book": 550,
+            "chapter": 11,
+            "verse": 5
+          },
+          "to": {
+            "book": 550,
+            "chapter": 11,
+            "verse": 6
+          }
+        }
+      ]
+    },
+    {
+      "id": "4c008362-e78d-480b-b54f-6c5301850d77",
+      "passages": [
+        {
+          "from": {
+            "book": 580,
+            "chapter": 4,
+            "verse": 5
+          },
+          "to": {
+            "book": 580,
+            "chapter": 4,
+            "verse": 6
+          }
+        }
+      ]
+    },
+    {
+      "id": "7f82ca98-7c2a-4929-90c8-4c83ab258a72",
+      "passages": [
+        {
+          "from": {
+            "book": 550,
+            "chapter": 12,
+            "verse": 25
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "fe7e2de2-8396-4277-a588-ef9b1cd57914",
+      "passages": [
+        {
+          "from": {
+            "book": 520,
+            "chapter": 5,
+            "verse": 44
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

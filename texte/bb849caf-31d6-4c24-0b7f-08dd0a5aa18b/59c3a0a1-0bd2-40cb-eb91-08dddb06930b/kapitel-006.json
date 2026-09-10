@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "59c3a0a1-0bd2-40cb-eb91-08dddb06930b",
+  "chapterId": "52a32b7e-ad28-4a08-ba10-08dddb5510b9",
+  "number": 6,
+  "title": "Kapitel 6",
+  "workTitle": "Über die Verschleierung von Jungfrauen",
+  "authorName": "Tertullian",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/tertullian/ueber-die-verschleierung-von-jungfrauen#kapitel-52a32b7e-ad28-4a08-ba10-08dddb5510b9",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:1a7452040464c877517005dfccb1ed545ab8e8acc27e7ccdb2a960b3704b399e",
+  "plainText": "Wie der Apostel und der Engel „Frau“ nach der Natur, nicht nach der Ehe gebrauchen. Sehen wir nun, ob auch der Apostel sich an das Muster dieses Wortes nach Genesis hält und es dem Geschlecht zuordnet, wenn er die Jungfrau Maria „Frau“ nennt, so wie Genesis Eva „Frau“ nannte. Denn wenn er an die Galater schreibt: „Gott sandte seinen Sohn, geboren von einer Frau“, dann ist klar, dass sie Jungfrau war, mag Ebion auch dagegen ankämpfen. Ich erkenne auch an, dass der Engel Gabriel zu einer Jungfrau gesandt wurde; doch als er sie segnet, rechnet er sie nicht unter die Jungfrauen, sondern unter die Frauen: „Gesegnet bist du unter den Frauen.“ Auch der Engel wusste, dass eine Jungfrau dennoch Frau genannt werden konnte. Doch hier meint irgendein kluger Kopf, er habe eine Antwort: Da Maria verlobt war, hätten der Engel und der Apostel sie deshalb Frau genannt, „denn eine Verlobte ist gewissermaßen schon verheiratet“. Doch zwischen „gewissermaßen“ und „in Wahrheit“ besteht jedenfalls in diesem Fall ein sehr deutlicher Unterschied; anderswo mag es sich tatsächlich so verhalten. In diesem Fall nannten sie Maria nicht „Frau“, als wäre sie bereits Ehefrau, sondern vielmehr als weiterhin weibliches Wesen, auch wenn sie noch nicht Braut war, gemäß der Bezeichnung, die von Anfang an gegeben wurde. Dieser ursprüngliche Gebrauch muss Vorrang haben, da er die Quelle des Musters ist und die Bedeutung bestimmt. Andernfalls, wenn an dieser Stelle Verlobtsein dem Verheiratetsein gleichgesetzt wird, sodass Maria nicht als weibliche Person, sondern als Ehefrau „Frau“ genannt wird, dann wurde Christus nicht von einer Jungfrau geboren; denn er wurde von einer Verlobten geboren, die durch eben diese Bezeichnung aufgehört hätte, Jungfrau genannt zu werden. Wenn er aber von einer Jungfrau geboren wurde, obwohl sie verlobt und doch noch unversehrt war, dann erkenne an, dass eine Frau zugleich Jungfrau und unbefleckt genannt werden kann. Gewiss kann hier nichts als prophetisch verstanden werden, als hätte der Apostel sie „Frau“ genannt, um anzuzeigen, was sie später werden würde, nämlich Ehefrau. Denn er konnte nicht von einer späteren „Frau“ gesprochen haben, von der Christus niemals geboren werden sollte, das heißt von einer, die einen Mann erkannt hatte, sondern nur von jener, die damals da war: Jungfrau und dennoch Frau genannt.\n\nDieser ursprüngliche Gebrauch muss Vorrang haben, weil er die Quelle des Musters ist und den Sinn bestimmt. Andernfalls, wenn in dieser Stelle Verlobtsein dem Verheiratetsein gleichgesetzt wird, sodass Maria „Frau“ nicht als weibliche Person, sondern als Ehefrau genannt wird, dann wurde Christus nicht von einer Jungfrau geboren; denn er wurde von einer Verlobten geboren, die durch eben diese Bezeichnung aufgehört hätte, Jungfrau genannt zu werden. Wenn er aber von einer Jungfrau geboren wurde, obwohl sie verlobt und doch noch unversehrt war, dann erkenne an, dass eine Frau zugleich Jungfrau und unbefleckt genannt werden kann. Gewiss kann hier nichts als prophetisch verstanden werden, als hätte der Apostel sie „Frau“ genannt, um anzuzeigen, was sie später werden würde, nämlich Ehefrau. Denn er hätte nicht von einer späteren „Frau“ sprechen können, von der Christus niemals geboren werden sollte, das heißt von einer, die einen Mann erkannt hatte, sondern nur von jener, die damals gegenwärtig war, Jungfrau war und dennoch Frau genannt wurde.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Wie der Apostel und der Engel „Frau“ nach der Natur, nicht nach der Ehe gebrauchen. Sehen wir nun, ob auch der Apostel sich an das Muster dieses Wortes nach Genesis hält und es dem Geschlecht zuordnet, wenn er die Jungfrau Maria „Frau“ nennt, so wie Genesis Eva „Frau“ nannte. Denn wenn er an die Galater schreibt: „"
+          },
+          {
+            "type": "text",
+            "text": "Gott sandte seinen Sohn, geboren von einer Frau",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "419b3c58-875b-4415-9d7f-9aa91cd55b73"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "“, dann ist klar, dass sie Jungfrau war, mag Ebion auch dagegen ankämpfen. Ich erkenne auch an, dass der Engel Gabriel zu einer Jungfrau gesandt wurde; doch als er sie segnet, rechnet er sie nicht unter die Jungfrauen, sondern unter die Frauen: „"
+          },
+          {
+            "type": "text",
+            "text": "Gesegnet bist du unter den Frauen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "4d6881d5-64ea-4695-8bd3-36542870cb74"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ".“ Auch der Engel wusste, dass eine Jungfrau dennoch Frau genannt werden konnte. Doch hier meint irgendein kluger Kopf, er habe eine Antwort: Da Maria verlobt war, hätten der Engel und der Apostel sie deshalb Frau genannt, „denn eine Verlobte ist gewissermaßen schon verheiratet“. Doch zwischen „gewissermaßen“ und „in Wahrheit“ besteht jedenfalls in diesem Fall ein sehr deutlicher Unterschied; anderswo mag es sich tatsächlich so verhalten. In diesem Fall nannten sie Maria nicht „Frau“, als wäre sie bereits Ehefrau, sondern vielmehr als weiterhin weibliches Wesen, auch wenn sie noch nicht Braut war, gemäß der Bezeichnung, die von Anfang an gegeben wurde. Dieser ursprüngliche Gebrauch muss Vorrang haben, da er die Quelle des Musters ist und die Bedeutung bestimmt. Andernfalls, wenn an dieser Stelle Verlobtsein dem Verheiratetsein gleichgesetzt wird, sodass Maria nicht als weibliche Person, sondern als Ehefrau „Frau“ genannt wird, dann wurde Christus nicht von einer Jungfrau geboren; denn er wurde von einer Verlobten geboren, die durch eben diese Bezeichnung aufgehört hätte, Jungfrau genannt zu werden. Wenn er aber von einer Jungfrau geboren wurde, obwohl sie verlobt und doch noch unversehrt war, dann erkenne an, dass eine Frau zugleich Jungfrau und unbefleckt genannt werden kann. Gewiss kann hier nichts als prophetisch verstanden werden, als hätte der Apostel sie „Frau“ genannt, um anzuzeigen, was sie später werden würde, nämlich Ehefrau. Denn er konnte nicht von einer späteren „Frau“ gesprochen haben, von der Christus niemals geboren werden sollte, das heißt von einer, die einen Mann erkannt hatte, sondern nur von jener, die damals da war: Jungfrau und dennoch Frau genannt."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dieser ursprüngliche Gebrauch muss Vorrang haben, weil er die Quelle des Musters ist und den Sinn bestimmt. Andernfalls, wenn in dieser Stelle Verlobtsein dem Verheiratetsein gleichgesetzt wird, sodass Maria „Frau“ nicht als weibliche Person, sondern als Ehefrau genannt wird, dann wurde Christus nicht von einer Jungfrau geboren; denn er wurde von einer Verlobten geboren, die durch eben diese Bezeichnung aufgehört hätte, Jungfrau genannt zu werden. Wenn er aber von einer Jungfrau geboren wurde, obwohl sie verlobt und doch noch unversehrt war, dann erkenne an, dass eine Frau zugleich Jungfrau und unbefleckt genannt werden kann. Gewiss kann hier nichts als prophetisch verstanden werden, als hätte der Apostel sie „Frau“ genannt, um anzuzeigen, was sie später werden würde, nämlich Ehefrau. Denn er hätte nicht von einer späteren „Frau“ sprechen können, von der Christus niemals geboren werden sollte, das heißt von einer, die einen Mann erkannt hatte, sondern nur von jener, die damals gegenwärtig war, Jungfrau war und dennoch Frau genannt wurde."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "419b3c58-875b-4415-9d7f-9aa91cd55b73",
+      "passages": [
+        {
+          "from": {
+            "book": 570,
+            "chapter": 4,
+            "verse": 4
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "4d6881d5-64ea-4695-8bd3-36542870cb74",
+      "passages": [
+        {
+          "from": {
+            "book": 510,
+            "chapter": 1,
+            "verse": 28
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}

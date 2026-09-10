@@ -1,0 +1,21 @@
+# Über die Verschleierung von Jungfrauen – Kapitel 2
+
+Autor: Tertullian
+
+**Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
+
+Deutsche Übersetzung: [Die ersten Christen](https://erste-christen.de/werke/tertullian/ueber-die-verschleierung-von-jungfrauen#kapitel-be431b37-66e1-4dc7-2588-08dddb06a719).
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen gegenüber dieser Fassung bitte kennzeichnen.
+
+Revision: `sha256:ae7706549ac2c923592327a7933c31d79485568e08c79fcef1fb1384f9f6ed2d`
+
+Für jetzt weigere ich mich, zuzugestehen, dass diese Gewohnheit, Jungfrauen unverschleiert gehen zu lassen, irgendetwas mit der Wahrheit zu tun hat; sie soll lediglich „Gewohnheit“ heißen, damit ich Gewohnheit der Gewohnheit entgegenstellen kann\. In ganz Griechenland und in manchen seiner barbarischen Gebiete halten viele Kirchen ihre Jungfrauen verborgen; und selbst unter diesem afrikanischen Himmel hat sich dieselbe Gewohnheit an einigen Orten durchgesetzt, sodass niemand sie griechischem oder barbarischem Heidentum zuschreiben kann\. Doch ich stelle euch jene Kirchen vor Augen, die von den Aposteln selbst oder von apostolischen Männern gegründet wurden und, wie ich glaube, früher gegründet wurden als manche anderen\. Diese Kirchen besitzen daher ebenfalls dieselbe Autorität der Gewohnheit und berufen sich weit stärker auf ihr Alter und ihre Vorgänger als diese späteren Kirchen\. Was also sollen wir einhalten, was sollen wir wählen? Wir können eine Gewohnheit nicht verwerfen, die wir nicht verurteilen können, da sie uns nicht fremd ist und nicht von Außenstehenden stammt, sondern von denen, mit denen wir das Recht des Friedens und den Namen der Bruderschaft teilen\. Wir und sie haben einen Glauben, einen Gott, denselben Christus, dieselbe Hoffnung, dasselbe Sakrament der Taufe[^bible-4c008362-e78d-480b-b54f-6c5301850d77]\. Ich sage es ein für alle Mal: Wir sind eine Kirche\. Was den Unseren eigen ist, ist auch uns eigen; andernfalls teilst du den Leib[^bible-7f82ca98-7c2a-4929-90c8-4c83ab258a72]\. Doch hier ist, wie immer, wenn verschiedene Gewohnheiten im Streit stehen, eine Prüfung nötig, um zu sehen, welche der beiden Gewohnheiten mehr mit der Zucht Gottes übereinstimmt\. Gewiss ist es diejenige, die die Jungfrau verborgen hält und nur Gott bekannt sein lässt; denn abgesehen davon, dass Ruhm von Gott und nicht von Menschen gesucht werden muss[^bible-fe7e2de2-8396-4277-a588-ef9b1cd57914], sollte eine Jungfrau sogar vor ihrem eigenen Vorzug erröten\.
+
+Sie lässt sich durch Lob stärker beunruhigen als durch Tadel, weil die Stirn der Sünde härter ist, da sie aus der Sünde und in der Sünde selbst Schamlosigkeit gelernt hat\. Was aber jene „Gewohnheit“ betrifft, die Jungfrauen zur Schau stellt, indem sie sie sichtbar macht: Niemand hätte sie gebilligt, außer Menschen von derselben Art wie die Jungfrauen selbst\. Denn solche Augen verlangen danach, dass eine Jungfrau gesehen wird, wie auch die Jungfrau selbst danach verlangt haben muss, wenn sie gesehen werden will\. Augen derselben Art begehren einander\. Gesehen werden zu wollen ist dieselbe Begierde wie sehen zu wollen\. Ein heiliger Mann muss ebenso erröten, wenn er eine unverhüllte Jungfrau sieht, wie eine heilige Jungfrau erröten muss, wenn sie von einem Mann gesehen wird\. Viele moderne Kritiker der Verschleierung werden die Vermutung aufstellen, die Verschleierung sei vor allem eine nordafrikanische Gewohnheit gewesen; doch wenn das wahr wäre, warum würde Tertullian dann vor seinen Hörern zu begründen versuchen, dass sie nicht annehmen sollten, sie sei lediglich eine griechische Gewohnheit, sondern auch eine nordafrikanische? Korinth lag in Griechenland, Paulus wandte sich in griechischer Sprache an die Korinther und gebot den Frauen, ihre Häupter zu verschleiern[^bible-156a4b8d-2cdc-4dc7-aff5-d6e504c724e7]\. Sie hätten nur eine Art von Schleier gekannt, nämlich einen, der das Gesicht bedeckt\.
+
+## Bibelverweise
+
+[^bible-156a4b8d-2cdc-4dc7-aff5-d6e504c724e7]: 1Kor 11,5–1Kor 11,6
+[^bible-4c008362-e78d-480b-b54f-6c5301850d77]: Eph 4,5–Eph 4,6
+[^bible-7f82ca98-7c2a-4929-90c8-4c83ab258a72]: 1Kor 12,25
+[^bible-fe7e2de2-8396-4277-a588-ef9b1cd57914]: Joh 5,44

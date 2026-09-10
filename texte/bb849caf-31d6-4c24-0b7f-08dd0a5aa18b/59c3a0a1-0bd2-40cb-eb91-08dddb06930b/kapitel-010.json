@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "59c3a0a1-0bd2-40cb-eb91-08dddb06930b",
+  "chapterId": "49c8df0f-3f4e-403c-ba14-08dddb5510b9",
+  "number": 10,
+  "title": "Kapitel 10",
+  "workTitle": "Über die Verschleierung von Jungfrauen",
+  "authorName": "Tertullian",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/tertullian/ueber-die-verschleierung-von-jungfrauen#kapitel-49c8df0f-3f4e-403c-ba14-08dddb5510b9",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:ec489958f98f4dc0d365c771a22d1410b1948c5b2dd0ffab22963f13bd40c4a2",
+  "plainText": "Auch wird ihr kein äußeres Ehrenzeichen gewährt. Es wäre in der Tat hart, wenn Frauen, die in jeder Hinsicht den Männern untergeordnet sind, das Ehrenzeichen ihrer Jungfräulichkeit zur Schau tragen sollten, um Blicke, Bewunderung und Ruhm von den Brüdern zu gewinnen, während Männer, so viele Jungfrauen, so viele freiwillige Eunuchen, mit ihrer edlen Gabe verborgen umhergehen und kein äußeres Zeichen tragen, das sie in gleicher Ehre sichtbar machen würde. Auch sie müssten dann irgendwelche Abzeichen für sich beanspruchen: die Federn der Garamanten? Die Riemen der Barbaren? Die goldenen Zikaden der Athener? Die Haarlocken der Germanen oder die Tätowierungen der Briten? Oder man soll das Gegenteil tun: Die Männer sollen mit verhülltem Haupt in die Kirche eintreten. Wir sind gewiss, dass der Heilige Geist ein solches äußeres Zeichen für Männer vorgeschrieben hätte, wenn er es für Frauen vorgeschrieben hätte, da Männer, über die natürliche Autorität ihres Geschlechts hinaus, noch mehr Ehre für Selbstbeherrschung verdienen. Denn die männliche Natur, die stärker zu Frauen hingezogen und entflammt ist, muss einen härteren und heißeren Kampf führen, um rein zu bleiben; und gerade deshalb ist ihre Selbstbeherrschung höher zu schätzen und jeder äußeren Zurschaustellung würdiger, wenn es denn die Zurschaustellung ist, die der Jungfräulichkeit ihre Würde gibt. Steht denn Enthaltsamkeit nicht höher als Jungfräulichkeit, sei es bei Witwern oder bei jenen verheirateten Männern, die im gegenseitigen Einvernehmen auf die gemeinsame Preisgabe der Keuschheit in der Ehe verzichtet haben? Denn Jungfräulichkeit wird als Gnadengabe empfangen, Selbstbeherrschung aber wird durch die Kraft der Tugend errungen. Es ist ein großer Kampf, dem Begehren zu widerstehen, wenn man seine Freuden einmal gekostet hat; hat man sie aber nie kennengelernt, ist es leicht, nicht zu begehren, da man keinen wirklichen Gegner hat, denn gerade der Genuss des Begehrens verleiht ihm seinen Stachel. Wie hätte Gott also Männer nicht mit einem solchen öffentlichen Ehrenzeichen kennzeichnen sollen, entweder weil sie sein Bild unmittelbarer tragen oder weil sie härter kämpfen? Und wenn er dem Mann nichts gegeben hat, wie viel weniger der Frau.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Auch wird ihr kein äußeres Ehrenzeichen gewährt. Es wäre in der Tat hart, wenn Frauen, die in jeder Hinsicht den Männern untergeordnet sind, das Ehrenzeichen ihrer Jungfräulichkeit zur Schau tragen sollten, um Blicke, Bewunderung und Ruhm von den Brüdern zu gewinnen, während Männer, so viele Jungfrauen, so viele "
+          },
+          {
+            "type": "text",
+            "text": "freiwillige Eunuchen",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "936e8a83-ff42-4608-9aa7-7054a8880f1a"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", mit ihrer edlen Gabe verborgen umhergehen und kein äußeres Zeichen tragen, das sie in gleicher Ehre sichtbar machen würde. Auch sie müssten dann irgendwelche Abzeichen für sich beanspruchen: die Federn der Garamanten? Die Riemen der Barbaren? Die goldenen Zikaden der Athener? Die Haarlocken der Germanen oder die Tätowierungen der Briten? Oder man soll das Gegenteil tun: Die Männer sollen mit verhülltem Haupt in die Kirche eintreten. Wir sind gewiss, dass der Heilige Geist ein solches äußeres Zeichen für Männer vorgeschrieben hätte, wenn er es für Frauen vorgeschrieben hätte, da Männer, über die natürliche Autorität ihres Geschlechts hinaus, noch mehr Ehre für Selbstbeherrschung verdienen. Denn die männliche Natur, die stärker zu Frauen hingezogen und entflammt ist, muss einen härteren und heißeren Kampf führen, um rein zu bleiben; und gerade deshalb ist ihre Selbstbeherrschung höher zu schätzen und jeder äußeren Zurschaustellung würdiger, wenn es denn die Zurschaustellung ist, die der Jungfräulichkeit ihre Würde gibt. Steht denn Enthaltsamkeit nicht höher als Jungfräulichkeit, sei es bei Witwern oder bei jenen verheirateten Männern, die im gegenseitigen Einvernehmen auf die gemeinsame Preisgabe der Keuschheit in der Ehe verzichtet haben? Denn Jungfräulichkeit wird als Gnadengabe empfangen, Selbstbeherrschung aber wird durch die Kraft der Tugend errungen. Es ist ein großer Kampf, dem Begehren zu widerstehen, wenn man seine Freuden einmal gekostet hat; hat man sie aber nie kennengelernt, ist es leicht, nicht zu begehren, da man keinen wirklichen Gegner hat, denn gerade der Genuss des Begehrens verleiht ihm seinen Stachel. Wie hätte Gott also Männer nicht mit einem solchen öffentlichen Ehrenzeichen kennzeichnen sollen, entweder weil sie "
+          },
+          {
+            "type": "text",
+            "text": "sein Bild",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "88cbb34d-4644-4503-9e96-a8061ba8c1c7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " unmittelbarer tragen oder weil sie härter kämpfen? Und wenn er dem Mann nichts gegeben hat, wie viel weniger der Frau."
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "88cbb34d-4644-4503-9e96-a8061ba8c1c7",
+      "passages": [
+        {
+          "from": {
+            "book": 1,
+            "chapter": 1,
+            "verse": 27
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "936e8a83-ff42-4608-9aa7-7054a8880f1a",
+      "passages": [
+        {
+          "from": {
+            "book": 490,
+            "chapter": 19,
+            "verse": 12
+          },
+          "to": null
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}
