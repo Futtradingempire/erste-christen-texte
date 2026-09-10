@@ -18,7 +18,7 @@ Hinweise, Pull Requests und darin genannte Namen sind öffentlich. Bitte veröff
 **Die Website-Anbindung wird gerade eingerichtet.** Bis sie verfügbar ist, kannst du bereits einen Fehlerhinweis auf GitHub anlegen.
 Der vorgesehene Ablauf:
 
-1. Öffne das betreffende Kapitel in der [Textbibliothek](https://www.erste-christen.de/textbibliothek) und wähle **„Korrektur vorschlagen“**.
+1. Öffne das betreffende Kapitel unter [Werke](https://www.erste-christen.de/werke), markiere die Textstelle und wähle **„Änderung vorschlagen“**. Alternativ findest du die Aktion am Kapitelende.
 2. Gib die kurze, eindeutige Textstelle, deinen Ersatztext und eine Begründung an. Ein öffentlicher Anzeigename ist freiwillig.
 3. Prüfe die Vorschau und bestätige die Beitragslizenz **CC BY-NC-SA 4.0**.
 4. Reiche den Vorschlag ein. Sobald die GitHub-Anbindung freigeschaltet ist, erstellt die Website den öffentlichen Pull Request für dich; du brauchst dafür kein GitHub-Konto.
@@ -73,7 +73,7 @@ zusätzlich im Website-Backend und übernimmt sie dort ausdrücklich. Passt die 
 ist eine neue Vorschau erforderlich. Bei erfolgreicher Übernahme bestätigt ein Kommentar den Website-Stand;
 das Archiv folgt beim nächsten Abgleich.
 
-Die Dateien unter `texte/`, die Verzeichnisse und diese Dokumentation werden aus der Website-Anwendung erzeugt.
+Die Dateien unter `werke/`, die Verzeichnisse und diese Dokumentation werden aus der Website-Anwendung erzeugt.
 Direkte Änderungen daran können beim Abgleich überschrieben werden. Nutze für Textkorrekturen den beschriebenen Vorschlagsweg;
 Ideen zur Navigation, Dokumentation oder zu weiteren eigenen Übersetzungen kannst du als
 [Issue](https://github.com/nico-ht/kirchenvaeter-werke/issues/new) besprechen.
