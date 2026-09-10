@@ -1,4 +1,6 @@
-# Die ersten Christen – Deutsche Übersetzungen
+# Kirchenväter Werke
+
+Deutsche Übersetzungen von **Die ersten Christen · erste-christen.de**.
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
