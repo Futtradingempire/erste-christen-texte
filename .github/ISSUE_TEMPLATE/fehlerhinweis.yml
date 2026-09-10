@@ -1,0 +1,41 @@
+name: Fehler oder Übersetzungsfrage
+description: Einen Hinweis zu einer Übersetzung oder öffentlichen Anmerkung geben.
+title: "[Text] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hinweise sind öffentlich. Bitte nenne keine privaten Kontaktdaten.
+        Ein Hinweis ändert den Website-Text noch nicht; die Redaktion prüft ihn zuerst.
+  - type: input
+    id: location
+    attributes:
+      label: Autor, Werk und Kapitel
+      placeholder: "Zum Beispiel: Hermas · Der Hirte · Kapitel 1"
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Link zur Textstelle
+      description: Link auf erste-christen.de oder zur Kapiteldatei in diesem Repository.
+  - type: textarea
+    id: original
+    attributes:
+      label: Betroffene Textstelle
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Dein Hinweis oder Ersatztext
+      description: Erkläre kurz den Fehler oder deine Übersetzungsfrage. Quellenangaben helfen bei der Prüfung.
+    validations:
+      required: true
+  - type: checkboxes
+    id: license
+    attributes:
+      label: Beitragslizenz
+      options:
+        - label: Mein eigener Beitrag darf unter CC BY-NC-SA 4.0 veröffentlicht werden; ich habe die erforderlichen Rechte.
+          required: true

@@ -1,34 +1,72 @@
 # Kirchenväter Werke
 
-Deutsche Übersetzungen von **Die ersten Christen · erste-christen.de**.
+Deutsche Übersetzungen frühchristlicher Werke von [Die ersten Christen](https://www.erste-christen.de).
+Lies mit, lade Texte herunter und hilf uns, Übersetzungen und Anmerkungen zu verbessern.
 
 **Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz**
 
-Eigene deutsche Übersetzungen und öffentliche Anmerkungen von [Die ersten Christen](https://www.erste-christen.de),
+[Texte lesen](#autoren-und-werke) · [Archiv herunterladen](https://github.com/nico-ht/kirchenvaeter-werke/archive/refs/heads/main.zip) · [Mitmachen](CONTRIBUTING.md) · [Lizenz](LICENSE.md)
+
+## Was du hier findest
+
+Eigene deutsche Übersetzungen und öffentliche Anmerkungen von **Die ersten Christen**,
 bereitgestellt unter [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de), soweit Schutzrechte bestehen.
 Die Lizenz betrifft unsere Beiträge, nicht gemeinfreie Ausgangswerke oder gesetzlich erlaubte Nutzungen.
 Griechische, lateinische, englische und fremde deutsche Fassungen sind nicht Bestandteil dieses Archivs.
 
-## Lesen und herunterladen
+Die Texte sind nach **Autor → Werksammlung → Werk → Kapitel** geordnet.
+Werke ohne Sammlung stehen direkt beim Autor. Die Verzeichnisse verwenden die vorhandenen Website-Titel.
+In jedem Werk findest du ein Inhaltsverzeichnis; jedes Kapitel liegt als lesbares Markdown und als strukturiertes JSON vor.
 
-[Textbibliothek](https://www.erste-christen.de/textbibliothek) · [Nutzung und Lizenz](https://www.erste-christen.de/nutzung-und-lizenz)
+| Datei | Inhalt |
+| --- | --- |
+| `texte/` | Werke und Kapitel mit öffentlichen Fußnoten und Quellenangaben |
+| `catalogue.json` | Übersicht aller veröffentlichten Werke im Archiv |
+| `paths.json` | Zuordnung stabiler Werk-IDs zu den aktuellen Verzeichnissen |
+| `corrections/` | Eingereichte Korrekturvorschläge, sobald vorhanden |
 
-Die Dateien unter `texte/` sind nach Autor, Werksammlung, Werk und Kapitel geordnet. Werke ohne Sammlung stehen direkt beim Autor. JSON enthält strukturierte Texte,
-Fußnoten und Quellenangaben; Markdown ist die daraus erzeugte lesbare Fassung. `catalogue.json` führt alle Werke auf.
-Ordner tragen die Autoren- und Werknamen der Website. `paths.json` ordnet stabile IDs den aktuellen Verzeichnissen zu.
-Dateien enthalten stabile IDs und Inhaltsprüfsummen. Der Git-Verlauf dokumentiert die veröffentlichten Fassungen.
+Der Git-Verlauf macht veröffentlichte Änderungen nachvollziehbar.
+
+## Lokal lesen und aktuell halten
+
+Mit Git erhältst du das Archiv einschließlich seiner Versionsgeschichte:
+
+```sh
+git clone https://github.com/nico-ht/kirchenvaeter-werke.git
+cd kirchenvaeter-werke
+```
+
+Später holst du neue Fassungen in diesem Verzeichnis mit:
+
+```sh
+git pull --ff-only
+```
+
+Das aktualisiert deine lokale Kopie. Ein **Pull Request** ist dagegen ein Vorschlag,
+eine eigene Änderung in dieses Repository zu übernehmen. Die [Mitmach-Anleitung](CONTRIBUTING.md) erklärt den Ablauf.
+Ohne Git kannst du das [gesamte Archiv als ZIP herunterladen](https://github.com/nico-ht/kirchenvaeter-werke/archive/refs/heads/main.zip).
+
+## Hilf mit
+
+Ein Tippfehler, eine unklare Übersetzung oder eine fragliche Anmerkung?
+[Erstelle einen Fehlerhinweis](https://github.com/nico-ht/kirchenvaeter-werke/issues/new?template=fehlerhinweis.yml)
+mit Werk, Kapitel und möglichst einem konkreten Vorschlag.
+Du kannst auch einen [Pull Request vorbereiten](CONTRIBUTING.md#mit-github-einen-pull-request-einreichen).
+
+Die Website-Anbindung für **„Korrektur vorschlagen“** wird gerade eingerichtet.
+Sobald sie verfügbar ist, kannst du direkt beim Kapitel eine Änderung prüfen und als öffentlichen Pull Request einreichen – auch ohne GitHub-Konto.
+Die Redaktion prüft den Vorschlag. Nach dem Zusammenführen erfolgt eine gesonderte Übernahme auf die Website.
 
 ## Quelle nennen
 
-> Die ersten Christen: [Werk, Kapitel], deutsche Übersetzung. Quelle: [Textstellen-URL].
+Bei einer Weiterverwendung unserer Übersetzungen oder Anmerkungen nennst du **Die ersten Christen**
+mit einem Verweis auf **https://www.erste-christen.de**, der genauen Textstelle und der Lizenz. Zum Beispiel:
+
+> Die ersten Christen: [Werk, Kapitel], deutsche Übersetzung. https://www.erste-christen.de · Textstelle: [Textstellen-URL].
 > Lizenz: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Änderungen: [keine / Beschreibung].
 
-## Korrekturen
-
-Die Website-Anbindung für „Korrektur vorschlagen“ wird gerade eingerichtet. Ein GitHub-Konto ist dafür nicht nötig.
-Der Vorschlag erscheint öffentlich als Pull Request. Weitere Informationen stehen in [CONTRIBUTING.md](CONTRIBUTING.md).
-Ein zusammengeführter Vorschlag wird erst durch die redaktionelle Übernahme in ChurchFathers auf der Website wirksam.
-Die Dateiänderung allein ist keine Veröffentlichung auf der Website.
+Kommerzielle Nutzung ist durch diese Lizenz nicht erlaubt. Veröffentlichte Bearbeitungen unserer Beiträge
+müssen unter derselben Lizenz stehen. Die vollständigen Bedingungen stehen in [LICENSE.md](LICENSE.md).
 
 ## Autoren und Werke
 
