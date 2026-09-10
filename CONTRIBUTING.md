@@ -15,13 +15,12 @@ Hinweise, Pull Requests und darin genannte Namen sind öffentlich. Bitte veröff
 
 ## Über die Website vorschlagen
 
-**Die Website-Anbindung wird gerade eingerichtet.** Bis sie verfügbar ist, kannst du bereits einen Fehlerhinweis auf GitHub anlegen.
-Der vorgesehene Ablauf:
+Auf der Website kannst du Vorschläge ohne GitHub-Konto einreichen:
 
 1. Öffne das betreffende Kapitel unter [Werke](https://www.erste-christen.de/werke), markiere die Textstelle und wähle **„Änderung vorschlagen“**. Alternativ findest du die Aktion am Kapitelende.
 2. Gib die kurze, eindeutige Textstelle, deinen Ersatztext und eine Begründung an. Ein öffentlicher Anzeigename ist freiwillig.
 3. Prüfe die Vorschau und bestätige die Beitragslizenz **CC BY-NC-SA 4.0**.
-4. Reiche den Vorschlag ein. Sobald die GitHub-Anbindung freigeschaltet ist, erstellt die Website den öffentlichen Pull Request für dich; du brauchst dafür kein GitHub-Konto.
+4. Reiche den Vorschlag ein. Unsere App erstellt den öffentlichen Pull Request für dich; du brauchst dafür kein GitHub-Konto. Dein verifiziertes GitHub-Profil kannst du freiwillig beim Vorschlag angeben.
 
 Eine Vorschau oder ein Download allein reicht noch keinen Vorschlag ein.
 Wenn der direkte Versand nicht verfügbar ist, kannst du die geprüfte Vorschlagsdatei herunterladen und selbst auf GitHub einreichen.
@@ -30,7 +29,7 @@ Wenn der direkte Versand nicht verfügbar ist, kannst du die geprüfte Vorschlag
 
 Für eine Textkorrektur wird eine von der Website erzeugte Vorschlagsdatei benötigt.
 Das erhält den Bezug zur geprüften Ausgangsfassung und ermöglicht die spätere redaktionelle Übernahme.
-Sobald das Korrekturformular verfügbar ist:
+So bereitest du einen eigenen Pull Request vor:
 
 1. Erzeuge dort die Vorschau, stimme der Beitragslizenz zu und wähle **„Vorschlag für Pull Request herunterladen“**.
    Die Datei heißt `<preview-hash>.json`; lass ihren Namen und Inhalt unverändert.

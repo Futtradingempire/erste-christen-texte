@@ -25,7 +25,7 @@ In jedem Werk findest du ein Inhaltsverzeichnis; jedes Kapitel liegt als lesbare
 | `paths.json` | Zuordnung stabiler Werk-IDs zu den aktuellen Verzeichnissen |
 | `corrections/` | Eingereichte Korrekturvorschläge, sobald vorhanden |
 
-Der Git-Verlauf macht veröffentlichte Änderungen nachvollziehbar.
+Der Git-Verlauf macht veröffentlichte Änderungen nachvollziehbar. Eine nächtliche Codex-Automation gleicht die veröffentlichten Fassungen ab: ein Commit je geändertem Werk, getrennte Commits für Archivverzeichnisse und Dokumentation. Ohne Änderungen entstehen keine Commits.
 
 ## Lokal lesen und aktuell halten
 
@@ -53,8 +53,8 @@ Ein Tippfehler, eine unklare Übersetzung oder eine fragliche Anmerkung?
 mit Werk, Kapitel und möglichst einem konkreten Vorschlag.
 Du kannst auch einen [Pull Request vorbereiten](CONTRIBUTING.md#mit-github-einen-pull-request-einreichen).
 
-Die Website-Anbindung für **„Änderung vorschlagen“** wird gerade eingerichtet.
-Sobald sie verfügbar ist, kannst du direkt beim Kapitel eine Änderung prüfen und als öffentlichen Pull Request einreichen – auch ohne GitHub-Konto.
+Auf der [Website](https://www.erste-christen.de/werke) kannst du direkt beim Kapitel eine Änderung prüfen und als öffentlichen Pull Request einreichen – auch ohne GitHub-Konto.
+Dein verifiziertes GitHub-Profil kannst du freiwillig angeben; den Pull Request erstellt unsere App.
 Die Redaktion prüft den Vorschlag. Nach dem Zusammenführen erfolgt eine gesonderte Übernahme auf die Website.
 
 ## Quelle nennen
