@@ -110,6 +110,26 @@
       }
     },
     {
+      "workId": "921c6003-b59c-4306-e97f-08deb834b202",
+      "title": "Barnabasbrief",
+      "authorId": "b3d29fdb-0fe9-45e3-7586-08dd0634fd28",
+      "authorName": "Apostel Barnabas",
+      "collectionTitle": null,
+      "languageCode": "de",
+      "sourceUrl": "https://erste-christen.de/werke/apostel-barnabas/barnabasbrief",
+      "contentRevision": "sha256:a627c575b415ea4386fb88d9d7eda3900e5a8d5ead4381907421792d45a64de4",
+      "chapterCount": 21,
+      "provenance": "Eigene Übersetzung; Veröffentlichung ausdrücklich freigegeben. Keine Aussage über menschliche Prüfung.",
+      "rights": {
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attributionName": "Die ersten Christen",
+        "attributionUrl": "https://erste-christen.de",
+        "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+        "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+      }
+    },
+    {
       "workId": "d0b84c3a-620a-455f-6745-08dd08ce8c1c",
       "title": "Apostolische Konstitutionen, Buch 1",
       "authorId": "1829195d-b0a1-4e9a-d505-08dea9f38a88",
