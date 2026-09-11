@@ -1,0 +1,258 @@
+{
+  "schemaVersion": "public-library-chapter-v1",
+  "workId": "921c6003-b59c-4306-e97f-08deb834b202",
+  "chapterId": "cd4fcbd1-7f54-4cbd-83e8-08deb834b855",
+  "number": 2,
+  "title": "Kapitel 2",
+  "workTitle": "Barnabasbrief",
+  "authorName": "Apostel Barnabas",
+  "languageCode": "de",
+  "sourceUrl": "https://erste-christen.de/werke/apostel-barnabas/barnabasbrief#kapitel-cd4fcbd1-7f54-4cbd-83e8-08deb834b855",
+  "rights": {
+    "license": "CC BY-NC-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributionName": "Die ersten Christen",
+    "attributionUrl": "https://erste-christen.de",
+    "notice": "Nicht kommerziell · Quelle nennen · Bearbeitungen unter gleicher Lizenz",
+    "scope": "Eigene deutsche Übersetzungen und eigene öffentliche Anmerkungen, soweit Schutzrechte bestehen."
+  },
+  "contentRevision": "sha256:5d09a88be360527d4ca9daa943825c7cc7275f47d98af22e8eeced020681d0e1",
+  "plainText": "Da nun die Tage böse sind und der Wirksame, die Macht besitzt, müssen wir auf uns selbst achten und die Rechtsforderungen des Herrn erforschen. Helfer unseres Glaubens sind also Furcht und Geduld; was uns als Verbündete zur Seite steht, sind Langmut und Selbstbeherrschung. Wenn diese nun in dem, was zum Herrn gehört, rein bestehen bleiben, freuen sich mit ihnen Weisheit, Einsicht, Wissenschaft und Erkenntnis. Denn er hat uns durch alle Propheten offenbart, dass er weder Opfer noch Brandopfer noch Darbringungen braucht, indem er einmal sagt: „Was soll mir die Menge eurer Opfer?, spricht der Herr. Ich bin satt an Brandopfern, und Fett von Lämmern und Blut von Stieren und Böcken will ich nicht, auch nicht, wenn ihr kommt, um vor mir zu erscheinen. Denn wer hat dies von euren Händen gefordert? Ihr sollt nicht weiter meinen Vorhof zertreten. Wenn ihr Feinmehl bringt, ist es vergeblich; Räucherwerk ist mir ein Gräuel; eure Neumonde Jesu Christi, da er ohne Joch der Notwendigkeit ist, sollen die Darbringung nicht als ein von Menschen gemachtes Werk haben.“ Und wiederum sagt er zu ihnen: „Habe ich denn euren Vätern, als sie aus dem Land Ägypten auszogen, geboten, mir Brandopfer und Opfer darzubringen? Vielmehr habe ich ihnen dies geboten: Keiner von euch soll in seinem Herzen gegen seinen Nächsten Böses nachtragen, und einen falschen Eid sollt ihr nicht lieben.“ Wir müssen also, ohne unverständig zu sein, den Sinn der Güte unseres Vaters erfassen, wenn er zu uns spricht, weil er will, dass wir nicht wie jene in die Irre gehen und danach suchen, wie wir ihm etwas darbringen sollen. Zu uns sagt er also so: „Ein Opfer für den Herrn ist ein zerbrochenes Herz; ein Wohlgeruch für den Herrn, den Herrn, ist ein Herz, das den verherrlicht, der es geformt hat.“ Wir müssen also, Brüder, genau auf unser Heil achten, damit nicht der Böse, indem er heimlich einen Irrtum in uns einschleust, uns aus unserem Leben hinausschleudert.",
+  "ast": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Da nun die Tage böse sind und der Wirksame, die Macht besitzt, müssen wir auf uns selbst achten und die Rechtsforderungen des Herrn erforschen. "
+          },
+          {
+            "type": "text",
+            "text": "Helfer unseres Glaubens sind also Furcht und Geduld; was uns als Verbündete zur Seite steht, sind Langmut und Selbstbeherrschung.",
+            "marks": [
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "2291055c-3002-4dd2-fb0d-08deb900e95b"
+                }
+              },
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "a8dc904e-9586-4a4c-fb0c-08deb900e95b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Wenn diese nun in dem, was zum Herrn gehört, rein bestehen bleiben, freuen sich mit ihnen Weisheit, Einsicht, Wissenschaft und Erkenntnis. "
+          },
+          {
+            "type": "text",
+            "text": "Denn er hat uns durch alle Propheten offenbart, dass er weder Opfer noch Brandopfer noch Darbringungen braucht, indem er einmal sagt: „",
+            "marks": [
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "4fbc9865-c405-4261-fb0e-08deb900e95b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Was soll mir die Menge eurer Opfer?, spricht der Herr. Ich bin satt an Brandopfern, und Fett von Lämmern und Blut von Stieren und Böcken will ich nicht, auch nicht, wenn ihr kommt, um vor mir zu erscheinen. Denn wer hat dies von euren Händen gefordert? Ihr sollt nicht weiter meinen Vorhof zertreten. Wenn ihr Feinmehl bringt, ist es vergeblich; Räucherwerk ist mir ein Gräuel",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "88f8065b-34bc-4961-a332-6373eb801574"
+                }
+              },
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "4fbc9865-c405-4261-fb0e-08deb900e95b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; eure Neumonde Jesu Christi, da er ohne Joch der Notwendigkeit ist, sollen die Darbringung nicht als ein von Menschen gemachtes Werk haben.“ Und wiederum sagt er zu ihnen: „",
+            "marks": [
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "4fbc9865-c405-4261-fb0e-08deb900e95b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Habe ich denn euren Vätern, als sie aus dem Land Ägypten auszogen, geboten, mir Brandopfer und Opfer darzubringen?",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "d524af69-5dbf-4166-a9e9-93cbf07bb834"
+                }
+              },
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "4fbc9865-c405-4261-fb0e-08deb900e95b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Vielmehr habe ich ihnen dies geboten: ",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "d524af69-5dbf-4166-a9e9-93cbf07bb834"
+                }
+              },
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "4fbc9865-c405-4261-fb0e-08deb900e95b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Keiner von euch soll in seinem Herzen gegen seinen Nächsten Böses nachtragen, und einen falschen Eid sollt ihr nicht lieben",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "b5352456-4be4-48ae-adf2-2008faf1f954"
+                }
+              },
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "4fbc9865-c405-4261-fb0e-08deb900e95b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ".“ Wir müssen also, ohne unverständig zu sein, den Sinn der Güte unseres Vaters erfassen, wenn er zu uns spricht, weil er will, dass wir nicht wie jene in die Irre gehen und danach suchen, wie wir ihm etwas darbringen sollen. Zu uns sagt er also so: „",
+            "marks": [
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "4fbc9865-c405-4261-fb0e-08deb900e95b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ein Opfer für den Herrn ist ein zerbrochenes Herz",
+            "marks": [
+              {
+                "type": "biblePassageLink",
+                "attrs": {
+                  "id": "325c43f8-9614-4c85-a1f5-8ec649ac7266"
+                }
+              },
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "4fbc9865-c405-4261-fb0e-08deb900e95b"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; ein Wohlgeruch für den Herrn, den Herrn, ist ein Herz, das den verherrlicht, der es geformt hat.“ Wir müssen also, Brüder, genau auf unser Heil achten, damit nicht der Böse, indem er heimlich einen Irrtum in uns einschleust, uns aus unserem Leben hinausschleudert.",
+            "marks": [
+              {
+                "type": "lexiconQuoteLink",
+                "attrs": {
+                  "id": "4fbc9865-c405-4261-fb0e-08deb900e95b"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "bibleLinks": [
+    {
+      "id": "325c43f8-9614-4c85-a1f5-8ec649ac7266",
+      "passages": [
+        {
+          "from": {
+            "book": 180,
+            "chapter": 50,
+            "verse": 19
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "88f8065b-34bc-4961-a332-6373eb801574",
+      "passages": [
+        {
+          "from": {
+            "book": 220,
+            "chapter": 1,
+            "verse": 11
+          },
+          "to": {
+            "book": 220,
+            "chapter": 1,
+            "verse": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "b5352456-4be4-48ae-adf2-2008faf1f954",
+      "passages": [
+        {
+          "from": {
+            "book": 370,
+            "chapter": 8,
+            "verse": 17
+          },
+          "to": null
+        }
+      ]
+    },
+    {
+      "id": "d524af69-5dbf-4166-a9e9-93cbf07bb834",
+      "passages": [
+        {
+          "from": {
+            "book": 230,
+            "chapter": 7,
+            "verse": 22
+          },
+          "to": {
+            "book": 230,
+            "chapter": 7,
+            "verse": 23
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": []
+}
