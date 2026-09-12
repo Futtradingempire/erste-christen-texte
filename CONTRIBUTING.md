@@ -25,6 +25,20 @@ Auf der Website kannst du Vorschläge ohne GitHub-Konto einreichen:
 Eine Vorschau oder ein Download allein reicht noch keinen Vorschlag ein.
 Wenn der direkte Versand nicht verfügbar ist, kannst du die geprüfte Vorschlagsdatei herunterladen und selbst auf GitHub einreichen.
 
+## Werke und Autoren vorschlagen
+
+Unter [Mitarbeiten](https://www.erste-christen.de/mitarbeiten) kannst du ein Werk oder einen Autor wünschen.
+Gib Autor und Wunsch an; bei einem Werkwunsch zusätzlich den Titel. Ein Quellenlink und die Quellsprache
+(Griechisch, Latein, Syrisch oder Englisch) sind freiwillig. Eine geeignete Quelle kann später recherchiert werden.
+Prüfe die Vorschau und stimme der öffentlichen Veröffentlichung deines eigenen Beitrags unter CC BY-NC-SA 4.0 zu.
+Die App erstellt einen Pull Request mit einer Datei `work-requests/<preview-hash>.json`.
+Alternativ kannst du die Vorschlagsdatei herunterladen und unter diesem Pfad in deinem Fork einreichen.
+
+Der Pull Request enthält einen kopierbaren Codex-Auftrag zur Quellenprüfung und Vorbereitung des MCP-Imports.
+Die Redaktion prüft Dubletten, Autorenzuordnung und Quellenrechte. Fehlende Autoren oder Quellen werden zuerst geklärt.
+Import und Übersetzung starten erst nach ausdrücklichem Auftrag der Redaktion in Codex über den freigegebenen
+ChurchFathers-MCP-Workflow. Ein Wunsch oder Merge allein startet keine Übersetzung.
+
 ## Mit GitHub einen Pull Request einreichen
 
 Für eine Textkorrektur wird eine von der Website erzeugte Vorschlagsdatei benötigt.

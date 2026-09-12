@@ -9,7 +9,7 @@
 ## Prüfung
 
 - [ ] Ich habe die Vorschau auf der Website geprüft.
-- [ ] Dieser Pull Request enthält genau eine unveränderte Vorschlagsdatei `corrections/<preview-hash>.json`.
+- [ ] Dieser Pull Request enthält genau eine unveränderte Vorschlagsdatei unter `corrections/` (Textkorrektur) oder `work-requests/` (Werk- oder Autorenwunsch).
 - [ ] Mein Beitrag darf unter CC BY-NC-SA 4.0 veröffentlicht werden; ich habe die erforderlichen Rechte.
 - [ ] Mir ist bekannt, dass der Vorschlag öffentlich ist und erst nach redaktioneller Übernahme auf der Website erscheint.
 
